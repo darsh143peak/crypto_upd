@@ -1,0 +1,6 @@
+pillow
+cryptography
+
+# Optional alternatives/enhancements:
+# pycryptodome
+# torch

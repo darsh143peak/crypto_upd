@@ -1,0 +1,16 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: tools/john-1.9.0-jumbo-1-win64/run/john --format=Raw-SHA256 --wordlist=data\tool_practical\password_attack\wordlist.txt data\tool_practical\password_attack\sha256_hash.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: Raw-SHA256 (min-len 0, max-len 18 [worst case UTF-8] to 55 [ASCII])
+0:00:00:00 - Algorithm: SHA256 256/256 AVX2 8x
+0:00:00:00 - Will reject candidates longer than 55 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 196608
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: data\tool_practical\password_attack\wordlist.txt
+0:00:00:00 - memory mapping wordlist (49 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked ?
+0:00:00:00 Session completed
