@@ -1,4 +1,4 @@
-# Crypto Professor Demo
+# GAN-Assisted Multi-Layer Cryptographic Security Framework
 
 An educational cryptography project that combines a custom Python CLI, a React + Flask demo dashboard, and practical security-tool labs. It is designed to make core crypto ideas easy to demonstrate: handshake-style key setup, certificate checking, AES encryption, image steganography, OTP, pond authentication, GAN-assisted key material, and real-world tools such as OpenSSL, GnuPG, Hashcat, John the Ripper, Netcat, and Wireshark.
 
